@@ -1,5 +1,5 @@
 # PythonTemplate
-This repository contains a simple template for Python repositories, including actions and a .gitignore file. The actions include linting using ruff and automatic test execution using pytest on merging to the main branch.
+This repository contains a simple template for Python repositories, including actions and a `.gitignore` file. The actions include organizing imports with `isort`, linting using `ruff`, automatic test execution using `pytest`, as well as a small coverage report with `coverage` on merging to the main branch.
 
 You can also add a badge like this one to your README.md file:
 [![Unit Tests and Code Style](https://github.com/frehburg/PythonTemplate/actions/workflows/python-app.yaml/badge.svg)](https://github.com/frehburg/PythonTemplate/actions/workflows/python-app.yaml)
