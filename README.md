@@ -12,6 +12,7 @@ You can also add a badge like this one to your README.md file:
 - Check "Require status checks to pass before merging"
 - (Optional:) Check "Require signed commits" if you are using SSH to sign your commits
 - Check "Require linear history"
+- Check "Lock branch"
 - Make sure to NOT check "Allow force pushes" and "Allow deletions"
 
 See here a template for your README
