@@ -52,6 +52,8 @@ List any software, libraries, or dependencies that need to be installed before s
 
 Step-by-step instructions on how to install and set up your project.
 
+To install your own code run `pip install -e .` in a terminal
+
 ## Features
 
 Provide examples and explanations of how your project can be used. Include code snippets or screenshots if necessary.
